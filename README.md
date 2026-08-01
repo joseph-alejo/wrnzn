@@ -22,13 +22,9 @@ Right now, I’m an **IT intern at Tagum Doctors Hospital**, contributing with m
 - 🤝 Open to part-time, freelance, internship, and junior opportunities
 
 <div align="center">
-  <img src="./assets/stickers/coding-cat.gif" width="145" alt="Animated cat coding on a laptop">
-  &nbsp;&nbsp;
-  <img src="./assets/stickers/multitasking-cat.gif" width="145" alt="Animated cat multitasking at a keyboard">
-  &nbsp;&nbsp;
-  <img src="./assets/stickers/laptop-bunny.gif" width="145" alt="Animated bunny working on a laptop">
+  <img src="./assets/stickers/joseph-sticker-strip.png" width="720" alt="Original illustrated sticker strip of Joseph coding, exploring applied AI, and testing software">
   <br>
-  <sub>curiosity · focus · iteration</sub>
+  <sub>backend · applied AI · quality</sub>
 </div>
 
 ## Selected work
@@ -76,6 +72,4 @@ If you’re building a useful web, data, healthcare, agriculture, or internal-to
 
 <div align="center">
   <sub>Build carefully. Test honestly. Keep moving.</sub>
-  <br>
-  <sub>Stickers from <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs for GitHub</a> (MIT).</sub>
 </div>
