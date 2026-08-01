@@ -16,27 +16,24 @@ I’m a **Computer Science student focused on AI, machine learning, and full-sta
 
 My current hands-on work includes helping a collaborative team modernize an operational information system. Across my projects, I work with authentication, role-based access, databases, REST APIs, automated testing, and data-driven features. I use AI-assisted tools to explore and prototype faster, then trace the implementation, verify its behavior, document key decisions, and strengthen my understanding before considering the work complete.
 
-### At a glance
+## Signal deck
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>📍 Based in</strong><br><br>
-      Philippines
+    <td width="48%" valign="top">
+      <h3>🛰️ Developer signal</h3>
+      <pre>location   Philippines
+focus      backend + applied AI
+systems    internal tools + APIs
+quality    testing + documentation</pre>
     </td>
-    <td width="50%" valign="top">
-      <strong>🧭 Focus areas</strong><br><br>
-      Internal tools · Backend development · Applied AI · Software QA
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🌱 Currently deepening</strong><br><br>
-      Python · JavaScript · API integration · Databases · Automated testing
-    </td>
-    <td width="50%" valign="top">
-      <strong>🤝 Open to</strong><br><br>
-      Part-time · Freelance · Internship · Junior opportunities
+    <td width="52%" valign="top">
+      <h3>🧭 Current trajectory</h3>
+      <ul>
+        <li><strong>Deepening:</strong> Python, JavaScript, APIs, databases, and automated testing</li>
+        <li><strong>Exploring:</strong> reliable backend systems, applied AI, and software QA</li>
+        <li><strong>Open to:</strong> part-time, freelance, internship, and junior opportunities</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -58,21 +55,41 @@ My current hands-on work includes helping a collaborative team modernize an oper
 
 <div align="center">
 
-### Toolbox
+## Toolbox
+
+### Application layer
 
 ![Python](https://img.shields.io/badge/Python-0F766E?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B45309?style=flat-square&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-334155?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=flat-square&logo=fastapi&logoColor=white)
+
+### Data & intelligence
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-155E75?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-B45309?style=flat-square&logo=firebase&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-C2410C?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Quality & workflow
+
 ![Playwright](https://img.shields.io/badge/Playwright-166534?style=flat-square&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-9F1239?style=flat-square&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-C2410C?style=flat-square&logo=git&logoColor=white)
 
+</div>
+
+## Activity loop
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wrnzn/wrnzn/output/contribution-trail-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wrnzn/wrnzn/output/contribution-trail.svg">
+    <img alt="Animated contribution trail generated from Joseph's GitHub activity" src="https://raw.githubusercontent.com/wrnzn/wrnzn/output/contribution-trail.svg" width="100%">
+  </picture>
+  <br>
+  <sub>Public contributions, redrawn daily · teal grid, amber runner</sub>
 </div>
 
 ## Engineering approach
