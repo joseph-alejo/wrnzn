@@ -21,6 +21,16 @@ Right now, I’m an **IT intern at Tagum Doctors Hospital**, contributing with m
 - 🌱 Currently deepening Python, JavaScript, API integration, databases, and automated testing
 - 🤝 Open to part-time, freelance, internship, and junior opportunities
 
+<div align="center">
+  <img src="./assets/stickers/coding-cat.gif" width="145" alt="Animated cat coding on a laptop">
+  &nbsp;&nbsp;
+  <img src="./assets/stickers/multitasking-cat.gif" width="145" alt="Animated cat multitasking at a keyboard">
+  &nbsp;&nbsp;
+  <img src="./assets/stickers/laptop-bunny.gif" width="145" alt="Animated bunny working on a laptop">
+  <br>
+  <sub>curiosity · focus · iteration</sub>
+</div>
+
 ## Selected work
 
 | Project | What it explores | Stack |
@@ -66,4 +76,6 @@ If you’re building a useful web, data, healthcare, agriculture, or internal-to
 
 <div align="center">
   <sub>Build carefully. Test honestly. Keep moving.</sub>
+  <br>
+  <sub>Stickers from <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs for GitHub</a> (MIT).</sub>
 </div>
