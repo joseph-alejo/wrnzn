@@ -22,7 +22,7 @@ My current hands-on work includes helping a collaborative team modernize an oper
 - 🤝 Open to part-time, freelance, internship, and junior opportunities
 
 <div align="center">
-  <img src="./assets/stickers/joseph-sticker-strip.png" width="720" alt="Original illustrated sticker strip of Joseph coding, exploring applied AI, and testing software">
+  <img src="./assets/stickers/joseph-sticker-strip-animated.webp" width="540" alt="Animated illustrated sticker strip of Joseph coding, exploring applied AI, and testing software">
   <br>
   <sub>backend · applied AI · quality</sub>
 </div>
