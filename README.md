@@ -31,7 +31,7 @@ My current hands-on work includes helping a collaborative team modernize an oper
 
 | Project | What it explores | Stack |
 |---|---|---|
-| **[AparTrack](https://joseph-alejo-portfolio.vercel.app)** | Team-built rental operations system with tenant, billing, deposit, audit, and role-based workflows | Node.js · Express · MongoDB · JWT · Jest · Playwright |
+| **AparTrack** | Team-built rental operations system with tenant, billing, deposit, audit, and role-based workflows | Node.js · Express · MongoDB · JWT · Jest · Playwright |
 | **[LuntiAI](https://github.com/wrnzn/LuntiAI)** | Barangay-level crop recommendations using local soil, weather, and crop data | Python · FastAPI · scikit-learn · SQLite |
 | **[Retail Robustness Studio](https://github.com/wrnzn/RetailRobustnessStudio)** | Comparing vision-model behavior under blur, noise, and occlusion | Python · Gradio · MobileNetV3 · TinyMobileViT |
 | **[ForUMhub](https://github.com/wrnzn/ForUMHUB)** | Campus community forum and marketplace designed around student interaction | Flutter · Dart · Firebase |
