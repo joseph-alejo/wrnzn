@@ -10,13 +10,13 @@
   <a href="https://www.credly.com/users/joseph-alejo.c75c59d6/badges"><img src="https://img.shields.io/badge/Credentials-B45309?style=for-the-badge&logo=credly&logoColor=white" alt="Credly credentials"></a>
 </div>
 
-## Hello — I’m Joseph 👋
+## About me
 
-I’m an incoming fourth-year **BS Computer Science student specializing in AI and machine learning** at the University of Mindanao. I build practical web applications, backend APIs, and applied-AI prototypes around real workflows—not just classroom prompts.
+I’m a **Computer Science student focused on AI, machine learning, and full-stack development**. I build practical web applications, backend APIs, internal tools, and applied-AI prototypes that translate real workflows into useful software.
 
-Right now, I’m an **IT intern at Tagum Doctors Hospital**, contributing with my colleagues to the revival of its PRS system. I’m also learning to take fuller ownership of AI-assisted code by tracing it, testing it, documenting it, and explaining the decisions behind it.
+My current hands-on work includes helping a collaborative team modernize an operational information system. Across my projects, I work with authentication, role-based access, databases, REST APIs, automated testing, and data-driven features. I use AI-assisted tools to explore and prototype faster, then trace the implementation, verify its behavior, document key decisions, and strengthen my understanding before considering the work complete.
 
-- 📍 Based in Tagum City, Philippines
+- 📍 Based in the Philippines
 - 🧭 Interested in internal tools, backend development, applied AI, and software QA
 - 🌱 Currently deepening Python, JavaScript, API integration, databases, and automated testing
 - 🤝 Open to part-time, freelance, internship, and junior opportunities
@@ -34,7 +34,7 @@ Right now, I’m an **IT intern at Tagum Doctors Hospital**, contributing with m
 | **[AparTrack](https://joseph-alejo-portfolio.vercel.app)** | Team-built rental operations system with tenant, billing, deposit, audit, and role-based workflows | Node.js · Express · MongoDB · JWT · Jest · Playwright |
 | **[LuntiAI](https://github.com/wrnzn/LuntiAI)** | Barangay-level crop recommendations using local soil, weather, and crop data | Python · FastAPI · scikit-learn · SQLite |
 | **[Retail Robustness Studio](https://github.com/wrnzn/RetailRobustnessStudio)** | Comparing vision-model behavior under blur, noise, and occlusion | Python · Gradio · MobileNetV3 · TinyMobileViT |
-| **[ForUMhub](https://github.com/wrnzn/ForUMHUB)** | Community forum and marketplace for University of Mindanao students | Flutter · Dart · Firebase |
+| **[ForUMhub](https://github.com/wrnzn/ForUMHUB)** | Campus community forum and marketplace designed around student interaction | Flutter · Dart · Firebase |
 
 <div align="center">
 
@@ -55,14 +55,14 @@ Right now, I’m an **IT intern at Tagum Doctors Hospital**, contributing with m
 
 </div>
 
-## How I’m growing
+## Engineering approach
 
 ```text
 prototype with curiosity → inspect the code → test the behavior
                          → explain the trade-offs → improve it deliberately
 ```
 
-I use AI tools to accelerate exploration, while working toward the standard that matters professionally: **understand what I ship, verify what I claim, and keep learning from what breaks.**
+I use AI-assisted tools to accelerate exploration and prototyping while taking responsibility for the result: **understand the implementation, verify its behavior, document key decisions, and improve what breaks.**
 
 ## Let’s connect
 
