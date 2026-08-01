@@ -16,10 +16,30 @@ I’m a **Computer Science student focused on AI, machine learning, and full-sta
 
 My current hands-on work includes helping a collaborative team modernize an operational information system. Across my projects, I work with authentication, role-based access, databases, REST APIs, automated testing, and data-driven features. I use AI-assisted tools to explore and prototype faster, then trace the implementation, verify its behavior, document key decisions, and strengthen my understanding before considering the work complete.
 
-- 📍 Based in the Philippines
-- 🧭 Interested in internal tools, backend development, applied AI, and software QA
-- 🌱 Currently deepening Python, JavaScript, API integration, databases, and automated testing
-- 🤝 Open to part-time, freelance, internship, and junior opportunities
+### At a glance
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>📍 Based in</strong><br><br>
+      Philippines
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧭 Focus areas</strong><br><br>
+      Internal tools · Backend development · Applied AI · Software QA
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🌱 Currently deepening</strong><br><br>
+      Python · JavaScript · API integration · Databases · Automated testing
+    </td>
+    <td width="50%" valign="top">
+      <strong>🤝 Open to</strong><br><br>
+      Part-time · Freelance · Internship · Junior opportunities
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="./assets/stickers/joseph-sticker-strip-animated.webp" width="540" alt="Animated illustrated sticker strip of Joseph coding, exploring applied AI, and testing software">
