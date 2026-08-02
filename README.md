@@ -18,25 +18,7 @@ My current hands-on work includes helping a collaborative team modernize an oper
 
 ## Signal deck
 
-<table>
-  <tr>
-    <td width="48%" valign="top">
-      <h3>🛰️ Developer signal</h3>
-      <pre>location   Philippines
-focus      backend + applied AI
-systems    internal tools + APIs
-quality    testing + documentation</pre>
-    </td>
-    <td width="52%" valign="top">
-      <h3>🧭 Current trajectory</h3>
-      <ul>
-        <li><strong>Deepening:</strong> Python, JavaScript, APIs, databases, and automated testing</li>
-        <li><strong>Exploring:</strong> reliable backend systems, applied AI, and software QA</li>
-        <li><strong>Open to:</strong> part-time, freelance, internship, and junior opportunities</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="./assets/signal-deck.svg" width="100%" alt="Joseph's animated developer signal deck: based in the Philippines, focused on backend systems, applied AI, internal tools, APIs, testing, and documentation">
 
 <div align="center">
   <img src="./assets/stickers/joseph-sticker-strip-animated.webp" width="540" alt="Animated illustrated sticker strip of Joseph coding, exploring applied AI, and testing software">
@@ -46,12 +28,15 @@ quality    testing + documentation</pre>
 
 ## Selected work
 
-| Project | What it explores | Stack |
-|---|---|---|
-| **AparTrack** | Team-built rental operations system with tenant, billing, deposit, audit, and role-based workflows | Node.js · Express · MongoDB · JWT · Jest · Playwright |
-| **[LuntiAI](https://github.com/wrnzn/LuntiAI)** | Barangay-level crop recommendations using local soil, weather, and crop data | Python · FastAPI · scikit-learn · SQLite |
-| **[Retail Robustness Studio](https://github.com/wrnzn/RetailRobustnessStudio)** | Comparing vision-model behavior under blur, noise, and occlusion | Python · Gradio · MobileNetV3 · TinyMobileViT |
-| **[ForUMhub](https://github.com/wrnzn/ForUMHUB)** | Campus community forum and marketplace designed around student interaction | Flutter · Dart · Firebase |
+<div align="center">
+  <img src="./assets/cards/apartrack.svg" width="100%" alt="AparTrack: a team-built rental operations system with role-based workflows">
+  <br><br>
+  <a href="https://github.com/wrnzn/LuntiAI"><img src="./assets/cards/luntiai.svg" width="100%" alt="LuntiAI: barangay-level crop recommendations using local data"></a>
+  <br><br>
+  <a href="https://github.com/wrnzn/RetailRobustnessStudio"><img src="./assets/cards/retail-robustness.svg" width="100%" alt="Retail Robustness Studio: visual model testing under blur, noise, and occlusion"></a>
+  <br><br>
+  <a href="https://github.com/wrnzn/ForUMHUB"><img src="./assets/cards/forumhub.svg" width="100%" alt="ForUMhub: a campus community forum and marketplace"></a>
+</div>
 
 <div align="center">
 
